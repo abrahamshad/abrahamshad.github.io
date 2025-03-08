@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abrahamshad.github.io/sitemap.xml
